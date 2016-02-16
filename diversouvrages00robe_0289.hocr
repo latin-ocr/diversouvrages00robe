@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diversouvrages00robe_0289.png"; bbox 0 0 1915 2663; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 257 763 1530 2487">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 257 763 1530 2487">
+     <span class='ocr_line' id='line_1_1' title="bbox 257 763 1530 2487; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 257 763 1530 2487; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 395 136 1230 186">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 395 136 1230 186">
+     <span class='ocr_line' id='line_1_2' title="bbox 395 136 1230 186; baseline 0.008 -10"><span class='ocrx_word' id='word_1_2' title='bbox 395 136 639 178; x_wconf 63' lang='lat' dir='ltr'>”snm-tn!</span> <span class='ocrx_word' id='word_1_3' title='bbox 685 148 775 179; x_wconf 67' lang='lat' dir='ltr'>ons</span> <span class='ocrx_word' id='word_1_4' title='bbox 823 139 1230 186; x_wconf 68' lang='grc' dir='ltr'>ΙΝοινῐειΒιῑςί</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1345 145 1423 193">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1345 145 1423 193">
+     <span class='ocr_line' id='line_1_3' title="bbox 1345 145 1423 193; baseline 0.026 -13"><span class='ocrx_word' id='word_1_5' title='bbox 1345 145 1391 182; x_wconf 83' lang='lat'>28</span> <span class='ocrx_word' id='word_1_6' title='bbox 1402 146 1423 193; x_wconf 60' lang='lat'>5&#39;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

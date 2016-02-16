@@ -1,0 +1,46 @@
+DE Rrsorurmue AEQUATIONUM. 241
+
+ 
+
+Appendix ad Isagogen topicam continens sblutionem
+Problematum vfhlidorum per locos.
+
+Ατυ 1 τ methodus qua lineae locales deteguntur:
+
+inquirendum restat qua ratione problematum so-
+lidorum solutio poffit ex supradietis elegantiffime deri-
+vari. Hoc ut fiat, maritanda illa quantitatum ignota-
+rum extra limites suos evagandi licentia. Infinita enim
+sunt puntsta quibus quaestioni propofitae satisfitin locis:
+commodiffim& igitur per duas aequalitates 1ocalesquae—
+vstio determinatur , secant quippe se invicem duae lineae
+locales positione datae, &s punfimm scetionis positione
+datum quaestionem ex infinito ad terminos praescriptos
+’ adigit. Exemplis breviter ‹Sc dilucide res explicatur.
+
+Proponatur a cubus -ῑ- b ,in a *quadratum aequari z,
+plano in b.
+
+Commode utraque aequalitatis pars potest :equari so-
+lido b in a in e, ut per divifionem istius solidi, illinc
+per a, hinc per b res deducatur ad locos. Cum igitur
+a cubus -ῐ- b in a quadratum aequetur b ina in e‚; ergo
+aq -1— b in a :equabitur b in e ε
+
+Et erit ‚ ut patet ex nostra methodo, extremitas ipsius
+e ad parabolam positione datam.
+
+Deinde cum z P in b aequetur b in a in e , ergo z P aequa.a
+bitur a in e.
+
+Et erit ex nostra methodo extremitas ipfius e ad hya
+perbolam positione datam. Sed jam probavimus effe ad
+parabolam ,positione datam. Ergo datur positione ‚ &t
+est facilis ab analysi ad synthesim regress'us.
+
+Nec dissimilis est methodus innmnibus aequationibus
+cubicis„ Constitutis enirn ex una parte solidis omnibus
+ab a adfeffis ‚ ex altera solido omnino dato , vel etiam
+
+Rec. de l’Acad, Tam, VJ„ H 11
+
